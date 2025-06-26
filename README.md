@@ -67,5 +67,6 @@ Below are the diagrams created in Fritzing to illustrate the circuit's layout:
 - **MATLAB Support Package for Arduino Hardware.**
 
 ## Credits
+- Oscar Ivan Hernandez Gomez
 - Jose Carlos Velaso Lopez
 - Yaisiri Monserrat Hernandez Leon
