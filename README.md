@@ -1,4 +1,4 @@
-# Arduino-Heart-Rate-Sensor
+# Heart Rate Monitor using Arduino
 A simple, plug-and-play heart rate sensor using Arduino for real-time pulse monitoring. Built with affordable and easy-to-use components.
 
 ## Introduction
